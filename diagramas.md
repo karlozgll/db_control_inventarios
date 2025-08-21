@@ -5,5 +5,5 @@
 <img width="1447" height="953" alt="db_control_inventarios_1" src="https://github.com/user-attachments/assets/1d44b5cb-d787-476e-b955-af092fb93221" />
 
 # Diseño fisico
-<img width="1217" height="788" alt="image" src="https://github.com/user-attachments/assets/8a38f563-a1a4-413c-a17e-e7fbd7b1b89c" />
+<img width="1415" height="776" alt="image" src="https://github.com/user-attachments/assets/eb5ae95d-39ca-4f94-a1ae-5f9cdd565e75" />
 
