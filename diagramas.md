@@ -6,3 +6,6 @@
 
 # Diseño fisico
 <img width="1222" height="722" alt="image" src="https://github.com/user-attachments/assets/7b2cc259-64d6-4b4d-85aa-dfe3210e146e" />
+
+# Modelo Dimensional
+<img width="1181" height="760" alt="image" src="https://github.com/user-attachments/assets/3f94435d-f955-4456-9df7-e7982b0a56cd" />
